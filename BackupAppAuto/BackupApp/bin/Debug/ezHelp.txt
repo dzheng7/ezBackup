@@ -1,0 +1,7 @@
+To make this program run automatically:
+
+First, edit ezBackupAuto.bat. 
+Put the file path of the program itself first, then the paths to the text file contianing the folders to be backed up and the destination folder, in that order. Put a space in between each path.
+Example: C:\temp\ezBackupAuto.exe C:\temp\TextFile.txt C:\temp\BackupFolder
+
+Then, run Task Scheduler. Create a task, name it, and go to the Triggers tab to put in when and how often you want your folders to be backed up. Then, in the Actions tab, either insert in the file path of the .bat file you edited earlier in Program/Script or put in the information directly. Press OK, and the backup should run automatically.

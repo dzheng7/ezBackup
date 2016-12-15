@@ -1,0 +1,21 @@
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Confirmation.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Help.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Properties.Resources.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Start.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.EZBackup.Test.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.YesNo.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\ezBackup.csproj.GenerateResource.Cache
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.MainForm.resources
+C:\Dev\Backup App\Backup App\bin\Debug\ezBackup.exe
+C:\Dev\Backup App\Backup App\bin\Debug\ezBackup.pdb
+C:\Dev\Backup App\Backup App\obj\x86\Debug\ezBackup.exe
+C:\Dev\Backup App\Backup App\obj\x86\Debug\ezBackup.pdb
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.BackupHelp.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Destination.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Origin.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Terms.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Multiple.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Text.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.IndivSelect.resources
+C:\Dev\BackupAppAuto\Backup App\obj\x86\Debug\ezBackup.exe
+C:\Dev\BackupAppAuto\Backup App\obj\x86\Debug\ezBackup.pdb

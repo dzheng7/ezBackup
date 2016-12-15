@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Backup_App.MainForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICIBEggdUbwSDBAACASESDIiAJFaAxu2kA1DcYSETTE=</HashCode>
+      <FileName>EZBackup\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Backup_App.Test" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIBACAAAAAAAACAQAACAAAAAgIAAAAAAIAEBAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoClosingMessageBox" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAgIAAAAAACAAAAAAAABEAAABAAAAAAAAAAA=</HashCode>
+      <FileName>EZBackup\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateObjClass" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>EZBackup\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackupApp.Program" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAMUYwSDAAACAQECDIgABEAABgyAA1BRECASQA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackupApp.Test" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Backup_App_Auto.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQQAAAgICBAAAAABEAAAAQgQgAAAAACASAAAAMA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Backup_App_Auto.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

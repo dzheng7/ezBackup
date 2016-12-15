@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <Information>
+    <Folder_number />
+    <Origin_folder(s) />
+    <Destination_folder />
+    <Backup_frequency />
+    <Backup_date />
+    <Backup_time />
+  </Information>
+</Table>

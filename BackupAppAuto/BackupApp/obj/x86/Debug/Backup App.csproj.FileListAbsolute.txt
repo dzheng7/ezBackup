@@ -1,0 +1,12 @@
+C:\Dev\Backup App\Backup App\bin\Debug\Backup App.exe
+C:\Dev\Backup App\Backup App\bin\Debug\Backup App.pdb
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Properties.Resources.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup App.csproj.GenerateResource.Cache
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup App.exe
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup App.pdb
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Confirmation.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.MainForm.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.EZBackup.Test.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Start.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.Help.resources
+C:\Dev\Backup App\Backup App\obj\x86\Debug\Backup_App.YesNo.resources
