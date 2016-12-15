@@ -1,0 +1,2 @@
+C:\Dev\BackupAppAuto\BackupApp\bin\Debug\TestKit\Test
+C:\Dev\BackupAppAuto\BackupApp\bin\Debug\TestKit\Test2
