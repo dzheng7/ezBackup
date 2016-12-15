@@ -26,3 +26,11 @@ C:\Dev\BackupAppAutoClean\BackupApp\obj\x86\Debug\Backup_App_Auto.Properties.Res
 C:\Dev\BackupAppAutoClean\BackupApp\obj\x86\Debug\ezBackupAuto.csproj.GenerateResource.Cache
 C:\Dev\BackupAppAutoClean\BackupApp\bin\Debug\ezBackupAuto.exe
 C:\Dev\BackupAppAutoClean\BackupApp\bin\Debug\ezBackupAuto.pdb
+C:\Dev\GitHub\ezBackup\BackupAppAuto\BackupApp\obj\x86\Debug\ezBackupAuto.exe
+C:\Dev\GitHub\ezBackup\BackupAppAuto\BackupApp\obj\x86\Debug\ezBackupAuto.pdb
+C:\Dev\GitHub\ezBackup\BackupAppAuto\BackupApp\bin\Debug\ezBackupAuto.exe
+C:\Dev\GitHub\ezBackup\BackupAppAuto\BackupApp\bin\Debug\ezBackupAuto.pdb
+C:\Dev\GitHub\ezBackup\BackupAppAuto\BackupApp\obj\x86\Debug\ezBackupAuto.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\ezBackup\BackupAppAuto\BackupApp\obj\x86\Debug\Backup_App.MainForm.resources
+C:\Dev\GitHub\ezBackup\BackupAppAuto\BackupApp\obj\x86\Debug\Backup_App_Auto.Properties.Resources.resources
+C:\Dev\GitHub\ezBackup\BackupAppAuto\BackupApp\obj\x86\Debug\ezBackupAuto.csproj.GenerateResource.Cache
