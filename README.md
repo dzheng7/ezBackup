@@ -5,4 +5,4 @@ These folders are two different Visual Studios projects, which both are intended
 
 ezBackup backs up files using a User Interface, while ezBackupAuto does it automatically on a schedule.
 
-While running the ezBackup program only requires running the .exe file, ezBackupAuto is more specialized; instructions on how to run the program can be found in the TestKit folder.
+While running the ezBackup program only requires running the .exe file, ezBackupAuto is more specialized; instructions on how to run the program can be found in the TestKit folder in ezBackupAuto/bin/Debug.
