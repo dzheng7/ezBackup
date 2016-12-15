@@ -1,2 +1,2 @@
-C:\Dev\BackupAppAuto\BackupApp\bin\Debug\misc\Test
-C:\Dev\BackupAppAuto\BackupApp\bin\Debug\misc\Test2
+C:\Dev\BackupAppAuto\BackupApp\bin\Debug\TestKit\Test
+C:\Dev\BackupAppAuto\BackupApp\bin\Debug\TestKit\Test2
